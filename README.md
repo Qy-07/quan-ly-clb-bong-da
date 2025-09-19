@@ -39,7 +39,7 @@ Sau khi chạy, bạn sẽ thấy menu chính với các tùy chọn:
 13. Lưu vào file (cần đăng nhập)
 14. Lưu và thoát (cần đăng nhập)
 15. Tạo dữ liệu mẫu (cần đăng nhập)
-16. Thoát không lưu
+16. Thoát
 
 ## Cấu trúc dự án
 
