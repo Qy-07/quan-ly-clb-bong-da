@@ -17,7 +17,7 @@ Quản lý câu lạc bộ bóng đá
 ## Cài đặt và Chạy
 
 1. Đảm bảo bạn có Java JDK đã cài đặt.
-2. Chạy file `build_and_run.bat` để biên dịch và chạy ứng dụng.
+2. Chạy file `build_and_run.bat` trong file "src" để biên dịch và chạy ứng dụng.
 3. Ứng dụng sẽ khởi động giao diện console với menu các chức năng.
 
 ## Cách sử dụng
